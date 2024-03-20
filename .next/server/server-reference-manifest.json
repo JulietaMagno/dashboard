@@ -1,5 +1,66 @@
 {
-  "node": {},
+  "node": {
+    "ed8aa15daa1c93a0d1444421fc57cd2e0ec7bdbf": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjuli%2FGitHub%2Fdashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjuli%2FGitHub%2Fdashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22%2FUsers%2Fjuli%2FGitHub%2Fdashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjuli%2FGitHub%2Fdashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/create/page": "action-browser"
+      }
+    },
+    "1d951f0e4f19a47feec66c6c3d984b9f8896e68a": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjuli%2FGitHub%2Fdashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjuli%2FGitHub%2Fdashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22%2FUsers%2Fjuli%2FGitHub%2Fdashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjuli%2FGitHub%2Fdashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/create/page": "action-browser"
+      }
+    },
+    "da0754f5fd30887c99c028a4a03eb0353e282505": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjuli%2FGitHub%2Fdashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjuli%2FGitHub%2Fdashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22%2FUsers%2Fjuli%2FGitHub%2Fdashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjuli%2FGitHub%2Fdashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/create/page": "action-browser"
+      }
+    },
+    "4e9b7e2d966e7f338178dfbc5c753e41c7abba5f": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjuli%2FGitHub%2Fdashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjuli%2FGitHub%2Fdashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22%2FUsers%2Fjuli%2FGitHub%2Fdashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjuli%2FGitHub%2Fdashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22updateInvoice%22%2C%22deleteInvoice%22%2C%22authenticate%22%2C%22createInvoice%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/create/page": "action-browser"
+      }
+    },
+    "a1d7807626f6e77d5182412adf5828be57c09085": {
+      "workers": {
+        "app/dashboard/(overview)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjuli%2FGitHub%2Fdashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjuli%2FGitHub%2Fdashboard%2Fapp%2Flib%2Factions.ts%22%2C%5B%22deleteInvoice%22%2C%22createInvoice%22%2C%22updateInvoice%22%2C%22authenticate%22%5D%5D%2C%5B%22%2FUsers%2Fjuli%2FGitHub%2Fdashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/invoices/create/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fjuli%2FGitHub%2Fdashboard%2Fapp%2Fui%2Fdashboard%2Fsidenav.tsx%22%2C%5B%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/(overview)/page": "rsc",
+        "app/dashboard/invoices/page": "rsc",
+        "app/dashboard/invoices/create/page": "rsc"
+      }
+    }
+  },
   "edge": {},
-  "encryptionKey": "uG31QYOPmMbJSatY1ayKFEk5yYTSJq4Ccp7kvosawL8="
+  "encryptionKey": "CeoYdSI3Su42yVhHnbAgw1uEVAsdtxmb84rpTsxCwxA="
 }
